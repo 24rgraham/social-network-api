@@ -1,4 +1,4 @@
- # Team Profile Generator  
+ # Social Network API 
 ![](https://img.shields.io/badge/License-MIT_License-blue) 
  
 ## Description
